@@ -1,5 +1,5 @@
 --== Load KyelHub with Rayfield ==--
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Rayfield/main/source.lua"))()
+local Rayfield = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 Rayfield:SetConfiguration({
     ToggleKey = Enum.KeyCode.RightShift,
