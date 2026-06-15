@@ -1,5 +1,5 @@
 --== Load KyelHub WindUI ==--
-local WindUI = loadstring(game:HttpGet("https://getpotato.vercel.app/library/main"))()
+local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 WindUI:AddTheme({
     Name = "KyelHub",
